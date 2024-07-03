@@ -87,6 +87,10 @@ i:hover {
     height: 3%;
 }
 
+.ending ul li {
+    margin-top: 0px;
+}
+
 .content ul li a:hover {
     color: #8F00BF;
     transform: scale(1.2);
